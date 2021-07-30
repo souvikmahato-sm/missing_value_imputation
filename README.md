@@ -5,6 +5,11 @@ Data plays a very important role in decision making. Data are characteristics or
 # Method
 Here I will use the idea of *Confidence Interval*, to impute missing values and get inference from a Dataset.
 
+> $$\bar{x} - z\sigma_{\bar{x}} \le \bar{\mu} \le \bar{x} + z\sigma_{\bar{x}}$$
+>- $\bar{\mu}$ *= estimated mean of population*
+>- $\bar{x}$ *= mean of sample*
+>- $\sigma_{\bar{x}}$ *= standard deviation of sample*
+>- $z$ *= confidence level*
 
-$\bar{x} - z\sigma_{\bar{x}} \le \bar{x} \le \bar{x} + z\sigma_{\bar{x}}$
+
 
