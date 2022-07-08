@@ -3,6 +3,7 @@ Data plays a very important role in decision making. Data are characteristics or
 <br>
 
 ![Doc](https://drive.google.com/file/d/1Iv5O3cFlVcmEkbwfoa3S8FgYHHTK4nN2/view?usp=sharing)
+
 # Method
 Here I will use the idea of *Confidence Interval*, to impute missing values and get inference from a Dataset.
 
